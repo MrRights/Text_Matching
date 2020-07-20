@@ -9,7 +9,6 @@
 * DSSM-RNN
 * DSSM-Embedding
 * ESIM
-* MatchPyramid
 * WMD
 * BM25
 * Edit-Distance
