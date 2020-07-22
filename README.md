@@ -9,7 +9,6 @@
 * DSSM-RNN
 * DSSM-Embedding
 * ESIM
-* WMD
 * BM25
 * Edit-Distance
 * Jaccard
